@@ -1,0 +1,15 @@
+{
+  "name": "ESP8266_Simple_Yahoo_Weather_Station",
+  "keywords": "esp8266, nodemcu,ili9225, weather station, yahoo weather",
+  "description": "simple weather yahoo weather station for esp8266 and ili9225 spi tft display",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThingPulse/esp8266-weather-station-color.git"
+  },
+  "authors": {
+    "name": "microyumcc"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
